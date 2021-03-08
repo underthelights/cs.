@@ -1,0 +1,4 @@
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+a ="3 9 10 11 14 21 22 31 33 34 37 39 40 44 45 46 48 49~58 61 66 67 69 71 75 76 79 89 93 99 103 104 105 106 109 111 112 116 117 120 121 122 132 133 134 138 148 155 158 159 160 161 162 163 169 170 175 177 179 180 184 185 186 188 192 196 197 203 204"
+print(len(a.split()))
